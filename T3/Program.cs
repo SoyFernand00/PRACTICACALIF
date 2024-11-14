@@ -46,3 +46,7 @@ do
     regre =Console.ReadLine().ToLower();
     Console.Clear();
 }while (regre=="si");
+
+
+
+//secund
