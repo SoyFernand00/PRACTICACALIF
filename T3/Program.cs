@@ -49,4 +49,3 @@ do
 
 
 
-//secund
